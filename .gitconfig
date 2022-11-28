@@ -1,0 +1,9 @@
+[user]
+	name = Johnny Choudhury-Lucas
+	email = client-werewolf-insulin@exito.tech
+[core]
+	excludesfile = $HOME/.gitignore
+	fileMode = false
+	ignorecase = false
+[init]
+	defaultBranch = main
