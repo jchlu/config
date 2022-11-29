@@ -1,1 +1,1 @@
-require "jchlu/set"
+require("jchlu")

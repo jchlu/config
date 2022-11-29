@@ -8,5 +8,8 @@ return require('packer').startup(function(use)
   use 'wbthomason/packer.nvim'
   use 'folke/tokyonight.nvim'
   use 'rebelot/kanagawa.nvim'
-  use 'neoclide/coc.nvim'
+  use 'ellisonleao/gruvbox.nvim'
+  use 'nvim-lua/plenary.nvim'
+  use 'nvim-telescope/telescope.nvim'
+
 end)
